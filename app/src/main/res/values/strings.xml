@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityChange</string>
+    <string name="edt_name">نام</string>
+    <string name="edt_family">نام خانوادگی</string>
+    <string name="btn_confirm">ورود</string>
+    <string name="tv_name">aaa</string>
+
+
+</resources>
